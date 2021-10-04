@@ -76,7 +76,7 @@ To create `ProfitSplitter` smart contracts that will:
 
     * Remix Transaction details </br>
 
-        ![remix_block](Level2_Outputs/Remix_block_details.png)
+        ![remix_block](Level2_Outputs/remix_block_details.png)
 
     * Ganache </br>
 
